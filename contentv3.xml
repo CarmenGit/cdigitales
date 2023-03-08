@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="6" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="cd1"></unicode>
+  <unicode value="  "></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addExeLink"></string>
@@ -17,11 +17,11 @@
   <string role="key" value="_backgroundImg"></string>
   <unicode value=""></unicode>
   <string role="key" value="_contextMode"></string>
-  <unicode value=""></unicode>
+  <unicode value="presencial"></unicode>
   <string role="key" value="_contextPlace"></string>
-  <unicode value=""></unicode>
+  <unicode value="classroom"></unicode>
   <string role="key" value="_description"></string>
-  <unicode value="competencias digitales1"></unicode>
+  <unicode value="competencias digitales"></unicode>
   <string role="key" value="_docType"></string>
   <unicode value="HTML5"></unicode>
   <string role="key" value="_exportElp"></string>
@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleTutor"></string>
   <bool value="0"></bool>
   <string role="key" value="_intendedEndUserRoleType"></string>
-  <unicode value=""></unicode>
+  <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
   <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
@@ -711,7 +711,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d5b40cb2cbbda8acee3e09ec956ea6eb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -763,7 +763,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0765800b4fe65db3cfcdd565d257c731"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -815,7 +815,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img4.3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img4.3.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img4.3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="2bce347a8b52410a58281671edca6e23"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -867,7 +867,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="menuSistema.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\menuSistema.jpg"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\menuSistema.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="25a6a2a0fad90d22b154cfff56f72eda"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -919,7 +919,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="monitor-mac.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\monitor-mac.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\monitor-mac.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="efb59086716d3c5155b26fb247696bc2"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1158,7 +1158,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img1.8.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.8.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.8.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="2f9aad43771823988c822d9f1398d9b1"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1210,7 +1210,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img2.5.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.5.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.5.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="875b600a0604ec0af090549fb9b57394"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1262,7 +1262,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img3.4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.4.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="b5256f71c9808b74cc75afb7165a3c5b"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1314,7 +1314,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img4.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img4.2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img4.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="fc2ef7a214e5d53fe8f265eddb6ab422"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1366,7 +1366,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Opciones_de_energia.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\Opciones_de_energia.jpg"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\Opciones_de_energia.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="85d23151328bcb09e8853e50611e1542"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1631,7 +1631,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img2.3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.3.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f779f568671095cf64103b985c1bf21d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1683,7 +1683,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img3.3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.3.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d74dff88dd245e0b4743340b5856fdfe"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1735,7 +1735,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img3.5.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.5.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.5.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6a812763efc469323c915c9a6b66f8bc"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1787,7 +1787,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img4.1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img4.1.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img4.1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e9a2a5865bb2dc20e6cb801097030268"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2313,7 +2313,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Captura_de_pantalla_2023-03-03_193247.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\Captura_de_pantalla_2023-03-03_193247.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\Captura_de_pantalla_2023-03-03_193247.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="bc965c173ae3a15ab81ee2c65d45d2e5"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2365,7 +2365,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img0.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="376be582867b6837ff16cd24fbe1542b"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2417,7 +2417,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="017f402f2c3cfad0803a8ae43268c276"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2469,7 +2469,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img10.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img10.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img10.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="ef8882b3d58d856091450dbe9aa013e0"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2521,7 +2521,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img12.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img12.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img12.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="8c4f69e9366db066c1a9b9eaa03774f1"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2573,7 +2573,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img13.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img13.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img13.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="af5eaaef0f76c0a5d11a5e88ba5ce564"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2625,7 +2625,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img2.6.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.6.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.6.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="9747dcdefecdacc12c8cba95971b13a5"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2677,7 +2677,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img4.4.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img4.4.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img4.4.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="fc4b885786768ae9beb82bf9f389d82e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2729,7 +2729,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img5.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img5.1.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img5.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="dac35e17ed1381cc965013fc6b87a158"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2781,7 +2781,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img6.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img6.1.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img6.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="a4c22299f910a021d03922cf301d4c04"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2833,7 +2833,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img7.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img7.1.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img7.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="b72d93cc7b7ca87492dbd338b005ec39"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2885,7 +2885,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img8.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img8.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img8.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="a0ed9c2b04603cd43efb2f3da63f04c8"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2937,7 +2937,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img9.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img9.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img9.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="79d024769099c2d4826b9c4eebea8a65"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3532,7 +3532,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="directorio_inicial.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\directorio_inicial.jpg"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\directorio_inicial.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d33b175feea9fb472ee5855faeae1655"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4042,7 +4042,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img0.6.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.6.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.6.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="df1fa0135f95212047f71a0c478fa6e0"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4094,7 +4094,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img1.3.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.3.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.3.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3261d466c138a722daf7939c86772a53"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4146,7 +4146,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img2.8.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.8.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.8.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="014d090e6d5d9865fb2050f11463d75a"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4198,7 +4198,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img3.8.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.8.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.8.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d73f75a5f2916d95a69b89b9d345ed57"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4417,7 +4417,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img1.4.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.4.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.4.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="9739212a54921a6ca9a2bad5f6801586"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4469,7 +4469,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img2.4.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.4.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.4.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2cb6ce7f046dc822cdc0b5f749d1f5fa"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4695,7 +4695,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img0.5.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.5.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.5.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6e048a1278978d973318bc5b31f7e181"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4906,7 +4906,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img0.3.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.3.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.3.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="0a01e53b1e8d456a0633b3739d3e0300"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4958,7 +4958,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img1.7.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.7.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.7.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="75bb462c8d98cbcfa5fda0c122061f32"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5342,7 +5342,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="navegadores.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\navegadores.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\navegadores.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="cac81704563938f8c48a8376cdcf512f"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5747,7 +5747,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="AnadirAtajo.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\AnadirAtajo.jpg"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\AnadirAtajo.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8e30e902e34ce981654409f4301bc1c6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5799,7 +5799,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="bdeca4384278a20958808730f57d0078"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5851,7 +5851,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img2.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="af7912051b8855a981bd0968fd1b690f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5903,7 +5903,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img3.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="39e6fa2951778bd271f507d4d9419dc0"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5955,7 +5955,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img4.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a536131c02843771abcd6e927e1a346b"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6007,7 +6007,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img5.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img5.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img5.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="778a9070682cec8cda0234ad8f83080f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6059,7 +6059,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img6.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img6.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img6.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="08dc649cdaa5e8b5b78daa3f6c4d3087"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6111,7 +6111,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img7.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img7.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img7.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="3ab369e3f9c6eeaefb1c0f00ef343edc"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6313,7 +6313,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="AnadirFavoritos.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\AnadirFavoritos.jpg"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\AnadirFavoritos.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="2e62d34e2e8b4428664a6be3ec83374a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6365,7 +6365,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="CarpetaFavoritos.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\CarpetaFavoritos.jpg"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\CarpetaFavoritos.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="b7d1c8f397cca9e79b68ac69fd64aae1"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6417,7 +6417,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="pagina_IRPF.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\pagina_IRPF.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\pagina_IRPF.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8a26da557fa97543b36b40d2a731c4fe"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6660,7 +6660,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.8.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.8.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.8.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4f1f844eca05159c882ebb319cfbc2cb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6712,7 +6712,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.9.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.9.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.9.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="926276bbf06fc263f008ad1341cf128d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6764,7 +6764,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img2.9.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.9.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.9.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="98853f187821ec45257913d2629788fc"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6816,7 +6816,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img3.6.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.6.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.6.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="264f3df160632b614768bb2f3aa4d7fa"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6868,7 +6868,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img4.5.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img4.5.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img4.5.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="9be48798317ff25b61003cc72df0d6fa"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6920,7 +6920,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img5.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img5.2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img5.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="70318b3c2b85619ffc81d08bb8533e69"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6972,7 +6972,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img6.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img6.2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img6.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ba3317a08090fd168f9b7f70af700ad9"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7024,7 +7024,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img7.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img7.2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img7.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="dd77e4213ccacdd8fbdddd53c5e19d74"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7599,7 +7599,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.2.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8610b92122b56f9377fc0f10e7c8f5b1"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7651,7 +7651,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.5.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.5.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.5.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f74f84f44fc0f95a63575d81344116d8"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7884,7 +7884,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.12.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.12.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.12.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="617bfbf651e2073f6880ef3d60f07d29"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7936,7 +7936,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.12.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.12.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.12.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="86884ffbef6059c5fb9113f81817006e"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7988,7 +7988,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img2.11.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.11.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.11.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4799713657f8eb7c54506dc7537d4308"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8040,7 +8040,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img3.9.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.9.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.9.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="3fff24b65d53a399fb6381481a6d0015"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8092,7 +8092,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img4.7.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img4.7.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img4.7.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="406e9b9b4ec27096e297f6bd9d6846ae"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8144,7 +8144,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img5.4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img5.4.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img5.4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="3535935a7f08008f073a8f582edbb91d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8196,7 +8196,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img6.3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img6.3.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img6.3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="581152fe062d984ce8f2b51a6547c409"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8583,7 +8583,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.11.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.11.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.11.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="fab97c6314cc21404aace157e396b73e"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8635,7 +8635,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.13.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.13.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.13.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4f85fcc18437fedb0ee3a352e0008e5f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8687,7 +8687,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img2.12.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.12.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.12.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="09f1e39e111b42cc27835c1926aeec03"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8920,7 +8920,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.9.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.9.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.9.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="b58e9efbead2918a456aabb874ad0d29"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8972,7 +8972,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.10.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.10.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.10.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="74c2eeea74056ad1b7fca482f398d114"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9681,7 +9681,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.15.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.15.png"></string>
+                     <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.15.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="be7cb9076929448be65c69b905c5d9eb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9916,7 +9916,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.16.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.16.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.16.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e6ffe202ac673bc8a55af15b8ab39118"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9968,7 +9968,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.14.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.14.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.14.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="49ce85db27c0d7f6b513eb6adea3a6e3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10020,7 +10020,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img2.13.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.13.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.13.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8877682b0cd2759159a878cbccf1aa85"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10252,7 +10252,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.14.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.14.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.14.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="9c3a2910853b5dc659a50ffc894344ff"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10491,7 +10491,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.13.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.13.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.13.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="55249f0645372cbd78a2cd78152c9e43"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10837,7 +10837,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
 &lt;li&gt;No exponer información personal o confidencial en las redes privadas. &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Realizar una copia de seguridad&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ante la posibilidad de que nuestro PC falle ya sea porque se estropee el disco duro, el sistema operativo falle o algún virus nos realice algún destrozo, debemos contemplar la idea de realizar copias de seguridad de nuestros cada cierto tiempo, con el fin de poder recuperarlos en los casos mencionados. &lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Lo ideal es hacer copias de seguridad, también llamadas backups o copias de respaldo) periódicas de los archivos más importantes, ya que almacenar completamente toda la enorme cantidad de información que posees en el ordenador supone demasiados recursos de espacio, y también de tiempo.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ante la posibilidad de que nuestro PC falle ya sea porque se estropee el disco duro, el sistema operativo falle o algún virus nos realice algún destrozo, debemos contemplar la idea de realizar copias de seguridad de nuestros datos cada cierto tiempo, con el fin de poder recuperarlos en los casos mencionados. &lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Lo ideal es hacer copias de seguridad, también llamadas backups o copias de respaldo) periódicas de los archivos más importantes, ya que almacenar completamente toda la enorme cantidad de información que posees en el ordenador supone demasiados recursos de espacio, y también de tiempo.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;También es recomendable hacer las copias de seguridad en una unidad externa, ya que si el ordenador se &quot;estropea del todo&quot; será complicado recuperar los datos.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Resumiendo, a la hora de hacer una copia de seguridad tenemos que decidir lo siguiente:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -10895,7 +10895,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.7.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.7.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.7.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="df7d9fc690a0f2cc57aa12952240e7ed"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10947,7 +10947,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.1.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="7bb5ceb73b89c82f3357ad2cb3ea6b34"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -11174,7 +11174,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.17.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.17.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.17.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="046211f7a116f73c11946289158b05e8"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -11390,7 +11390,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.4.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="9535178ac803bd3e962617181724a157"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -11442,7 +11442,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.6.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.6.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.6.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="38d81b1c84db4327308165088a7e71be"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -11494,7 +11494,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img2.7.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.7.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.7.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="260dde96e0fe779d495cfe496402b6b7"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -11736,7 +11736,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img0.18.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.18.png"></string>
+                     <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.18.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="2cd5c4622e40b9a5ea80768f473f33d3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -11788,7 +11788,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="img1.15.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.15.png"></string>
+                     <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.15.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ee8cf921073043faf814267198b94825"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12024,7 +12024,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img2.1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.1.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5e4439811a52efdcfbd2819600b036d6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12076,7 +12076,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img3.1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.1.png"></string>
+                        <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1574fd293e73620b00a7eb7c2e93ed79"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12290,7 +12290,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img0.19.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.19.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.19.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6089f998baafc7b1c3d3b1e86d9b51a0"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12342,7 +12342,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img1.16.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.16.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.16.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3eab1466720566e1a8bfabbd65739b83"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12592,7 +12592,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img0.10.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img0.10.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img0.10.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="17aa341148110dd57140b59a23e780a7"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12644,7 +12644,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img1.11.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img1.11.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img1.11.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6ac0a765dba67b3680421098860a0cc3"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12696,7 +12696,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img2.10.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img2.10.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img2.10.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="c7e872fb2ac75b36c3c40ba49603f346"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12748,7 +12748,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img3.7.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img3.7.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img3.7.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3b4e9ef8c86d6ad1e006ba60c6cc5b68"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12800,7 +12800,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img4.6.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img4.6.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img4.6.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="36152a9625e5c74b0e7fdc341606f056"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12852,7 +12852,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="img5.3.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmpz4jmy9\\img5.3.png"></string>
+                           <string value="c:\\users\\marad\\appdata\\local\\temp\\tmp2lnx2g\\img5.3.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3989e5df5d5bf391f65cd4fef043db7d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -13177,7 +13177,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
-    <unicode value="competencias digitales1"></unicode>
+    <unicode value="competencias digitales"></unicode>
     <string role="key" value="format"></string>
     <unicode value=""></unicode>
     <string role="key" value="identifier"></string>
@@ -13195,7 +13195,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="cd1"></unicode>
+    <unicode value="  "></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -13207,7 +13207,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
   <string role="key" value="exportSource"></string>
   <bool value="1"></bool>
   <string role="key" value="footer"></string>
-  <string value=""></string>
+  <unicode value=""></unicode>
   <string role="key" value="isLoading"></string>
   <bool value="0"></bool>
   <string role="key" value="license"></string>
@@ -13230,13 +13230,117 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
        <string role="key" value="cognitiveProcess"></string>
        <list></list>
        <string role="key" value="context"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="other"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="school"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="description"></string>
        <list></list>
        <string role="key" value="difficulty"></string>
        <none></none>
        <string role="key" value="intendedEndUserRole"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="learner"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="interactivityLevel"></string>
        <none></none>
        <string role="key" value="interactivityType"></string>
@@ -13318,7 +13422,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
             <string role="key" value="language"></string>
             <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="competencias digitales1"></string>
+            <string value="competencias digitales"></string>
            </dictionary>
           </instance>
          </list>
@@ -13377,7 +13481,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="cd1"></string>
+           <string value="  "></string>
           </dictionary>
          </instance>
         </list>
@@ -13633,13 +13737,117 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
        <string role="key" value="cognitiveProcess"></string>
        <list></list>
        <string role="key" value="context"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="presencial"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.contextSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.contextValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="classroom"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="description"></string>
        <list></list>
        <string role="key" value="difficulty"></string>
        <none></none>
        <string role="key" value="intendedEndUserRole"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="learner"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="interactivityLevel"></string>
        <none></none>
        <string role="key" value="interactivityType"></string>
@@ -13721,7 +13929,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
             <string role="key" value="language"></string>
             <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="competencias digitales1"></string>
+            <string value="competencias digitales"></string>
            </dictionary>
           </instance>
          </list>
@@ -13780,7 +13988,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="cd1"></string>
+           <string value="  "></string>
           </dictionary>
          </instance>
         </list>
