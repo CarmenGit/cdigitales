@@ -14,12 +14,14 @@
 <script type="text/javascript" src="exe_jquery.js"></script>
 <script type="text/javascript" src="common_i18n.js"></script>
 <script type="text/javascript" src="common.js"></script>
+<link rel="stylesheet" type="text/css" href="scrambled-list.css" />
+<script type="text/javascript" src="scrambled-list.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 <body class="exe-web-site" id="exe-node-24"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
-<header id="header"  style="background-image: url(encabezado.jpg); background-repeat: no-repeat;"><div id="headerContent">                                  </div></header>
+<header id="header"  style="background-image: url(logo.jpg); background-repeat: no-repeat;"><div id="headerContent">                                  </div></header>
 <nav id="siteNav">
 <ul>
    <li><a href="index.html" class="daddy main-node">Módulo de Competencias Digitales Básicas</a></li>
@@ -37,7 +39,7 @@
          <li><a href="calculadora.html" class="no-ch">Calculadora</a></li>
          <li><a href="bloc_de_notas.html" class="no-ch">Bloc de notas</a></li>
          <li><a href="grabadora_de_voz.html" class="no-ch">Grabadora de voz</a></li>
-         <li><a href="navegador_microsoft_edge.html" class="no-ch">Navegador. Microsoft Edge</a></li>
+         <li><a href="navegadores_microsoft_edge.html" class="no-ch">Navegadores. Microsoft Edge</a></li>
       </ul>
       </li>
    </ul>
@@ -102,30 +104,116 @@
 <article class="iDevice_wrapper textIdevice" id="id62">
 <div class="iDevice emphasis0" >
 <div id="ta62_124_2" class="block iDevice_content">
-<div class="exe-text"><p><span style="font-size: 12pt;">Drive es un servicio de almacenamiento en la nube que nos permite gestionar y compartir contenido fácilmente. Podremos acceder a la información que almacenemos en la nube de forma rápida y desde cualquier lugar.</span></p>
+<div class="exe-text"><p><span style="font-size: 12pt;">El disco duro del ordenador, la memoria del móvil, las unidades USB, las tarjetas SD..., son unidades de almacenamiento que, para alojar datos en su interior, deben estar preparados para ello y tener una infraestructura. Quien se encarga de administrar la memoria de cada unidad es el sistema de archivos, que forma parte del sistema operativo. Su función es la de administrar la memoria de cada unidad, de asignarles a los archivos el espacio que necesiten, ordenarlos, permitir el acceso a ellos y administrar el espacio libre de las unidades de almacenamiento.</span></p>
+<p><span style="font-size: 18pt;"><strong>Principales sistemas de archivos</strong></span></p>
+<ul>
+<li><span style="font-size: 12pt;"><strong>FAT32</strong>: destaca su gran compatibilidad con dispositivos y sistemas operativos. Solo permite guardar archivos de como máximo 4 GB, se ha quedado anticuado.</span></li>
+</ul>
+<ul>
+<li><span style="font-size: 12pt;"><strong>exFAT</strong>: es una mejora del anterior, para superar la limitación de los 4 GB.</span></li>
+</ul>
+<ul>
+<li><span style="font-size: 12pt;"><strong>NTFS</strong>: es el que usa Windows por defecto. No es del todo compatible con MacOs ya que no puede escribir en las unidades formateadas con este sistema, aunque sí leerlas.</span></li>
+</ul>
+<ul>
+<li><span style="font-size: 12pt;"><strong>HFS+</strong>: es el formato usado en los discos duros de Mac. Los sistemas GNU/Linux pueden trabajar con él sin problemas, en Windows sólo se puede leer el contenido de los discos formateados con este sistema, pero no escribir en ellos.</span></li>
+</ul>
+<ul>
+<li><strong>APFS</strong>: sucesor del HFS+. Está especialmente diseñado para memorias de estado sólido (SSD), y es el que utiliza ahora en todos los iPhone, iPads de 64 bits, así como los Mac con memoria SSD y macOS High Sierra, y dispositivos tvOS, watchOS y audioOS.</li>
+</ul>
+<ul>
+<li><strong>Ext2, ext3 y ext4</strong>: son los utilizados por los sistemas GNU/Linux, no son compatibles con otros.<br /> </li>
+</ul>
+<p>Por lo general, si vamos a utilizar Windows utilizaremos el sistema de archivos NTFS, mientras que en los Mac usaremos APFS. Normalmente no tendremos que tener en cuenta nada más, a no ser que necesitemos usar unidades de almacenamiento en sistemas diferentes. Por ejemplo, si en casa tenemos Windows y en el trabajo solo hay Mac, si queremos llevar archivos con los que hemos trabajado en casa en un disco duro externo, tendremos que usar un sistema de archivos que sea compatible.</p>
+<p></p>
+<p style="text-align: left;"><strong><span style="font-size: 18pt;">Unidades de medida de almacenamiento de la información</span></strong></p>
+<p style="text-align: left;"><span style="font-size: 12pt;">La cantidad de datos que se maneja hoy en día es enorme. Actualmente, tanto empresas como particulares generan una ingente cantidad de datos, de una forma tan exagerada que, para referirnos a la cantidad de datos mundial hemos de emplear unidades, notoriamente más grandes que las que utilizamos habitualmente, como zetta y yottabyte.</span></p>
+<p style="text-align: left;"><span style="font-size: 12pt;">Conocer las diferentes unidades de almacenamiento y la relación entre ellas nos va a permitir valorar las capacidades de almacenamiento de las unidades de que disponemos, poderlas comparar y saber cuánta información podemos guardar en ellas.  Por ejemplo, los pendrives suelen medirse en Gigabytes, mientras que los discos duros, suelen medirse ya en Terabytes. </span></p>
+<p style="text-align: left;"><span style="font-size: 12pt;">La unidad de información mas pequeña es el <strong>bit</strong>, que puede tomar el valor de 0 ó 1. Un bit se corresponde con una señal electrónica que se representa con un "1" cuando está encendida y con un "0" cuando está apagada. Internamente, lo único que el ordenador maneja son ceros y unos.</span><span style="font-size: 12pt;"></span></p>
+<p style="text-align: left;"><span style="font-size: 12pt;">Una secuencia de 8 bits constituye un <strong>byte</strong>, equivale a una letra, un número o símbolo. Como cada bit, dentro de un byte, puede tener el valor de "0" o "1", con un byte podemos representar hasta 2<sup>8</sup> = 256 caracteres distintos.</span></p>
+<p style="text-align: left;"><span style="font-size: 12pt;"><img src="img7.9.png" width="310" height="163" style="display: block; margin: 30px auto 30px auto;" /></span></p>
+<p><span style="font-size: 12pt;">Para conjuntos de datos mayores a los bytes se utilizan prefijos que se colocan delante de “byte”: kilobyte, megabyte, gigabyte, etc. Hay dos tipos de prefijos: los binarios y los decimales (los que normalmente usamos).</span></p>
+<p><span style="font-size: 12pt;">Los prefijos binarios definen cantidades de datos en potencias de dos, mientras que los decimales utilizan potencias de 10. Obviamente, los prefijos binarios expresan con más precisión las cantidades de almacenamiento, sin embargo, por sencillez, se ha impuesto el uso de los prefijos decimales. Según el sistema decimal, 1 kilobyte son supuestamente 10<sup>3</sup>= 1000 bytes. Sin embargo, en realidad son 2<sup>10</sup> = 1024 bytes.</span></p>
+<p><span style="font-size: 12pt;">Algunas de las unidades de medida del sistema binario son: kibibyte (2<sup>10</sup> bytes = 1024 bytes), mebibyte (2<sup>10</sup> kibibytes = 1024 kibibytes), gibibyte,...</span></p>
+<p><span style="font-size: 12pt;">Para ir convirtiendo de una unidad a otra inmediatamente mayor hay que multiplicar por 1.024, pero se suele aproximar a 1.000 porque así es más fácil realizar la conversión. Así, tenemos las siguientes unidades de almacenamiento, utilizando base 10 (decimal) en vez de binaria:</span></p>
+<p></p>
+<p><span style="font-size: 12pt;"><img src="img8.5.png" width="401" height="335" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-size: 12pt;"><img src="img9.4.png" width="678" height="116" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-size: 12pt;">Los ordenadores convierten automáticamente los números decimales en binarios y viceversa, de forma invisible para el usuario. Para que el usuario pueda interactuar con la máquina, se han creado códigos que representan cada carácter como una cadena única de bits</span><span style="font-size: 12pt;">. El código más común es el ASCII (American Standard Code for Information Interchange, Código estándar estadounidense para el intercambio de información).</span></p>
+<p><span style="font-size: 12pt;">Unicode es otro estándar que se utiliza para la codificación de caracteres de manera universal.</span></p>
+<p>No debemos confundir las unidades de almacenamiento con las unidades para medir la velocidad de transferencia de datos. En este último caso, utilizamos una medida basada en los bits transmitidos por segundo, así, hablamos de megabits por segundo (Mbps) y gigabits por segundo (Gbps) para referirnos a velocidades de conexión.<span style="font-size: 12pt;"><sup></sup></span></p>
+<p></p>
+<p><strong><span style="font-size: 18pt;">Tipos de unidades de almacenamiento</span></strong></p>
+<p><strong><span style="font-size: 14pt;">Almacenamiento principal</span></strong>: son memorias rápidas que almacenan la información con la que trabaja la CPU.</p>
+<ul>
+<li><strong>RAM</strong>: memoria volátil que contiene de forma temporal las instrucciones y los datos que maneja el procesador. Su contenido se borra cuando el ordenador se apaga. Los PC de hoy en día suelen tener entre 8 y 16 GB de RAM.</li>
+</ul>
+<ul>
+<li><strong>Caché</strong>: es una memoria muy rápida que almacena temporalmente información leída de la RAM, para que la próxima vez que se necesite dicha información se acceda a ella más rápido.</li>
+</ul>
+<p><br /><span style="font-size: 14pt;"><strong>Almacenamiento secundario</strong></span>: son memorias que no se borran cuando se apaga el ordenador, es decir, almacenan la información de forma permanente. Son más lentas que las de almacenamiento principal, pero, en cambio, poseen más capacidad de almacenamiento. Suelen albergar el sistema operativo y las aplicaciones y datos que usamos habitualmente.</p>
+<ul>
+<li><strong>Discos duros magnéticos (HDD)</strong>: almacenan los programas y los datos. Cuando un usuario quiere utilizar un programa, la información se lee del disco duro y se pasa a la RAM (más rápida) para que el procesador pueda trabajar con ella. Los HDD son discos magnéticos que se componen de una cabeza lectora, posicionada sobre una aguja, y una serie de discos denominados platos, que giran constantemente. Los datos se encuentran sobre la superficie del disco, y la aguja se va moviendo de un lado a otro para leer los datos. Este tipo de discos son con los que normalmente vienen equipados los ordenadores personales, aunque ya se empiezan a sustituir por los SSD, ya que estos últimos ofrecen mejores prestaciones.</li>
+</ul>
+<ul>
+<li><strong>Discos de estados sólidos (SSD)</strong>: son más modernos que los anteriores, se basan en tecnología Flash. Son más caros que los HDD, pero ofrecen más ventajas (más rápidos, menos ruido, menos tamaño,...). Las unidades SSD se pueden encontrar, aparte de los nuevos PC y los portátiles de gama alta, en smartphones, tablets y, a veces, cámaras de vídeo.</li>
+</ul>
+<ul>
+<li><strong>Memorias ROM</strong>: memorias de solo lectura. Almacenan el firmware, programas que controlan un dispositivo. Ejemplo de ROM es la BIOS.</li>
+</ul>
+<p><br /><span style="font-size: 14pt;"><strong>Almacenamiento externo</strong></span></p>
+<ul>
+<li><strong>Memorias USB</strong>: también llamados pendrive o USB flash Drive, son dispositivos portátiles basados en tecnología Flash y se conectan al ordenador por USB. Antes de que se extendiera el uso de la compartición de archivos en la nube, las memorias USB eran esenciales para trasladar fácilmente los archivos de un dispositivo a otro. </li>
+</ul>
+<ul>
+<li><strong>Tarjetas SD</strong>: también son de tipo Flash. Se suelen usar como medio de almacenamiento en las cámaras digitales.</li>
+</ul>
+<ul>
+<li><strong>Dispositivos de almacenamiento óptico:</strong> <span style="font-size: 12pt;">poseen una lámina de material metálico que refleja un haz de luz láser o no lo refleja dependiendo de las marcas que se graban en un surco en forma de espiral a lo largo del disco. El CD-ROM, el DVD y el Blu-Ray son unidades ópticas de almacenamiento. Estos medios han caído en desuso en los últimos años. En un CD, pueden almacenarse hasta 700 MB de datos; en un DVD-DL, hasta 8,5 GB y, en un Blu-Ray, entre 25 y 128 GB.</span></li>
+</ul>
+<ul>
+<li><strong>Discos duros externos</strong> <span style="font-size: 12pt;">HDD y SSD: los HDD suelen ofrecer hasta 22 TB y los SSD, hasta 8 TB.</span></li>
+</ul>
+<ul>
+<li><span style="font-size: 12pt;"><strong>Disquetes</strong>: fueron los primeros dispositivos de almacenamiento extraíbles y portátiles. Ya están obsoletos. También llamados floppy disk, su capacidad rondaba entre los 720 KB y 1,44 MB, cantidades que hoy en día nos parecen irrisorias.</span></li>
+</ul>
+<p><br /><span style="font-size: 14pt;"><strong>Almacenamiento en red</strong></span></p>
+<p>El acceso a los datos se realiza a través de una red local Ethernet o a través de internet, dando la impresión de que se está trabajando con una unidad de almacenamiento local. Este tipo de almacenamiento permite que los recursos de almacenamiento se puedan optimizar y compartir entre varios ordenadores.</p>
+<ul>
+<li><strong>Almacenamiento en la nube: </strong>Esta "nube" es un numeroso grupo de servidores alojados en centros de datos de todo el mundo. Cuando guardamos un documento en la nube, lo almacenamos en esos servidores, lo que nos permite ahorrar espacio en nuestro ordenador. </li>
+</ul>
+<ul>
+<li><strong>Servidores NAS</strong>: son ordenadores dedicados a almacenar datos en sus discos, permitiendo recuperar, guardar y compartir los datos en un punto centralizado para todos los ordenadores de la red local.</li>
+</ul>
+<ul>
+<li><span style="color: #333333; font-size: 12pt;"><strong>SAN</strong>: es una red de almacenamiento de alta velocidad que proporciona acceso al almacenamiento en bloque. </span></li>
+</ul>
+<p></p>
+<p style="text-align: left;"><strong><span style="font-size: 18pt;">Almacenamiento en la nube con Google Drive</span></strong></p>
+<p><span style="font-size: 12pt;">Drive es un servicio de almacenamiento en la nube que nos permite gestionar y compartir contenido fácilmente. Podremos acceder a la información que almacenemos en la nube de forma rápida y desde cualquier lugar.</span><br /><span style="font-size: 12pt;"></span></p>
 <p><strong><span style="font-size: 12pt;">Características de Drive</span></strong></p>
 <ul>
-<li><span style="font-size: 12pt;">Barra de búsqueda: nos permite buscar archivos o carpetas en nuestro Drive, ofrece distintos parámetros para configurar y filtrar la búsqueda (por tipo de archivo, ubicación, última modificación...).</span></li>
+<li><span style="font-size: 12pt;"><span style="text-decoration: underline;">Barra de búsqueda</span>: nos permite buscar archivos o carpetas en nuestro Drive, ofrece distintos parámetros para configurar y filtrar la búsqueda (por tipo de archivo, ubicación, última modificación...).</span></li>
 </ul>
-<p><span style="font-size: 12pt;"><img src="img0.12.png" width="879" height="121" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-size: 12pt;"><img src="img0.12.png" width="879" height="121" style="display: block; margin: 25px auto 25px auto;" /></span></p>
 <ul>
-<li><span style="font-size: 12pt;">Mi unidad: aquí podemos crear nuevos archivos o carpetas, ya sea subiéndolos desde el pc o creándolos en la nube con cualquiera de las aplicaciones que ofrece Google. Una cuestión importante es tener todos los archivos y carpetas bien organizados, para que luego sea más fácil gestionarlos.</span></li>
+<li><span style="font-size: 12pt;"><span style="text-decoration: underline;">Mi unidad</span>: aquí podemos crear nuevos archivos o carpetas, ya sea subiéndolos desde el pc o creándolos en la nube con cualquiera de las aplicaciones que ofrece Google. Una cuestión importante es tener todos los archivos y carpetas bien organizados, para que luego sea más fácil gestionarlos.</span></li>
 </ul>
-<p><span style="font-size: 12pt;"><img src="img1.12.png" width="300" height="331" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-size: 12pt;"><img src="img1.12.png" width="300" height="331" style="display: block; margin: 20px auto 20px auto;" /></span></p>
 <p><span style="font-size: 12pt;"></span></p>
 <ul>
-<li><span style="font-size: 12pt;">Reciente: aquí se muestran los últimos elementos a los que hemos accedido.</span></li>
-<li><span style="font-size: 12pt;">Destacados: cuando queramos acceder a determinados archivos o carpetas de manera más rápida los marcaremos como destacados. Para ello, basta con hacer clic con el botón derecho sobre el elemento y luego en Añadir a Destacados. </span></li>
+<li><span style="font-size: 12pt;"><span style="text-decoration: underline;">Reciente</span>: aquí se muestran los últimos elementos a los que hemos accedido.</span></li>
+<li><span style="font-size: 12pt;"><span style="text-decoration: underline;">Destacados</span>: cuando queramos acceder a determinados archivos o carpetas de manera más rápida los marcaremos como destacados. Para ello, basta con hacer clic con el botón derecho sobre el elemento y luego en Añadir a Destacados. </span></li>
 </ul>
-<p><img src="img2.11.png" width="275" height="401" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="img2.11.png" width="275" height="401" style="display: block; margin: 25px auto 25px auto;" /></p>
 <ul>
-<li>Compartidos conmigo: son los archivos que han sido compartidos con nosotros. </li>
-<li><span style="font-size: 12pt;">Subir un archivo o carpeta a Drive: pulsamos en Mi unidad y hacemos clic en  <img src="img3.9.png" width="116" height="54" style="vertical-align: middle;" />y luego Subir archivo; o pulsamos con el botón</span> <span style="font-size: 12pt;">derecho en la parte vacía de la ventana y seleccionamos Subir archivo. Actuaremos de forma similar para subir una carpeta, en este caso, se subirá la carpeta con todo su contenido.</span></li>
-<li><span style="font-size: 12pt;">Compartir un archivo o carpeta: hacemos clic con el botón derecho sobre el elemento y luego Compartir. En el cuadro de diálogo escribiremos la dirección de correo de la persona con la que queremos compartir el elemento y elegiremos un rol para la misma (editor, comentador, lector). También podemos escribir un pequeño mensaje. Luego pulsamos Enviar. A esa persona con la que compartimos le llegará un correo con un enlace al recurso compartido.</span></li>
+<li><span style="text-decoration: underline;">Compartidos conmigo</span>: son los archivos que han sido compartidos con nosotros. </li>
+<li><span style="font-size: 12pt;"><span style="text-decoration: underline;">Subir un archivo o carpeta</span> a Drive: pulsamos en Mi unidad y hacemos clic en  <img src="img3.9.png" width="116" height="54" style="vertical-align: middle;" />y luego Subir archivo; o pulsamos con el botón</span> <span style="font-size: 12pt;">derecho en la parte vacía de la ventana y seleccionamos Subir archivo. Actuaremos de forma similar para subir una carpeta, en este caso, se subirá la carpeta con todo su contenido. </span><span style="font-size: 12pt;"></span></li>
+<li><span style="font-size: 12pt;"><span style="text-decoration: underline;">Compartir un archivo o carpeta</span>: hacemos clic con el botón derecho sobre el elemento y luego Compartir. En el cuadro de diálogo escribiremos la dirección de correo de la persona con la que queremos compartir el elemento y elegiremos un rol para la misma (editor, comentador, lector). También podemos escribir un pequeño mensaje. Luego pulsamos Enviar. A esa persona con la que compartimos le llegará un correo con un enlace al recurso compartido.</span></li>
 </ul>
-<p><img src="img4.7.png" width="406" height="248" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><img src="img6.3.png" width="463" height="191" alt="" style="font-size: 16.8px; display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="img4.7.png" width="406" height="248" style="display: block; margin: 20px auto 20px auto;" /><img src="img6.3.png" width="463" height="191" style="font-size: 16.8px; display: block; margin: 20px auto 20px auto;" /></p>
 <p style="padding-left: 30px;"><span style="font-size: 12pt;">Para compartir, también podemos usar el icono correspondiente de la barra de herramientas situada en</span><span style="font-size: 12pt;"> la parte superior. Al compartir un archivo o carpeta, la persona con la que compartimos recibirá un correo con un enlace al elemento compartido.</span></p>
-<p><img src="img5.4.png" width="602" height="93" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p></div>
+<p><img src="img5.4.png" width="602" height="93" style="display: block; margin: 25px auto 25px auto;" /></p></div>
 </div>
 </div>
 </article>
@@ -138,6 +226,90 @@
 <div class="pbl-task-description"><p>Entra en Drive y sube el archivo lista_comandos.txt que se encuentra en la carpeta Textos del pendrive. Comparte dicho archivo.</p></div>
 </div>
 </div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper ScrambledListIdevice em_iDevice em_iDevice_activity" id="id99">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header"><h1 class="iDeviceTitle">Ejercicio 1</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<div id="ta99_120_2" class="block iDevice_content">
+<div class="exe-sortableList"><div class="exe-sortableList-instructions"><p>Ordena de menor a mayor las siguientes cantidades.</p></div><ul class="exe-sortableList-list"><li>2 KB</li><li>2300 Bytes</li><li>0,1 MB</li><li>0,5 TB</li><li>501 GB</li><li>5 YB</li></ul><div style="display:none"><p class="exe-sortableList-buttonText">Comprobar</p><p class="exe-sortableList-rightText">¡Correcto!</p><p class="exe-sortableList-wrongText">No es correcto... Respuesta correcta:</p></div></div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper ListaIdevice em_iDevice em_iDevice_question" id="id100">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header"><h1 class="iDeviceTitle">Ejercicio 2</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<section id="ta100_131" class="block instructions iDevice_content">
+<p>Realiza las siguientes conversiones de unidades.</p>
+</section>
+
+<section class="activity" id="activity-100_132">
+<form name="cloze-form-100_132" action="#" class="activity-form cloze-form">
+<div id="cloze100_132">
+<p>2 KB equivalen a 
+<label for="clozeBlank100_132.0" class="sr-av">Rellenar huecos (1):</label>
+<select id="clozeBlank100_132.0">
+<option selected="selected"> </option><option value="2.000.000">2.000.000</option><option value="2.500">2.500</option><option value="0,002">0,002</option><option value="2.000">2.000</option><option value="2.500.000">2.500.000</option>
+</select>
+<span style="display:none" id="clozeAnswer100_132.0">JXUwMDZhJXUwMDFjJXUwMDFlJXUwMDAwJXUwMDAw</span>
+ bytes</p>
+<p>2,5 TB equivalen a 
+<label for="clozeBlank100_132.1" class="sr-av">Rellenar huecos (2):</label>
+<select id="clozeBlank100_132.1">
+<option selected="selected"> </option><option value="2.000.000">2.000.000</option><option value="2.500">2.500</option><option value="0,002">0,002</option><option value="2.000">2.000</option><option value="2.500.000">2.500.000</option>
+</select>
+<span style="display:none" id="clozeAnswer100_132.1">JXUwMDZhJXUwMDFjJXUwMDFiJXUwMDA1JXUwMDAw</span>
+ GB y a 
+<label for="clozeBlank100_132.2" class="sr-av">Rellenar huecos (3):</label>
+<select id="clozeBlank100_132.2">
+<option selected="selected"> </option><option value="2.000.000">2.000.000</option><option value="2.500">2.500</option><option value="0,002">0,002</option><option value="2.000">2.000</option><option value="2.500.000">2.500.000</option>
+</select>
+<span style="display:none" id="clozeAnswer100_132.2">JXUwMDZhJXUwMDFjJXUwMDFiJXUwMDA1JXUwMDAwJXUwMDFlJXUwMDFlJXUwMDAwJXUwMDAw</span>
+ MB</p>
+<p>2 GB equivalen a 
+<label for="clozeBlank100_132.3" class="sr-av">Rellenar huecos (4):</label>
+<select id="clozeBlank100_132.3">
+<option selected="selected"> </option><option value="2.000.000">2.000.000</option><option value="2.500">2.500</option><option value="0,002">0,002</option><option value="2.000">2.000</option><option value="2.500.000">2.500.000</option>
+</select>
+<span style="display:none" id="clozeAnswer100_132.3">JXUwMDZhJXUwMDFjJXUwMDFlJXUwMDAwJXUwMDAwJXUwMDFlJXUwMDFlJXUwMDAwJXUwMDAw</span>
+ KB</p>
+<p>2 MB equivalen a 
+<label for="clozeBlank100_132.4" class="sr-av">Rellenar huecos (5):</label>
+<select id="clozeBlank100_132.4">
+<option selected="selected"> </option><option value="2.000.000">2.000.000</option><option value="2.500">2.500</option><option value="0,002">0,002</option><option value="2.000">2.000</option><option value="2.500.000">2.500.000</option>
+</select>
+<span style="display:none" id="clozeAnswer100_132.4">JXUwMDY4JXUwMDFjJXUwMDFjJXUwMDAwJXUwMDAy</span>
+ GB y a 
+<label for="clozeBlank100_132.5" class="sr-av">Rellenar huecos (6):</label>
+<select id="clozeBlank100_132.5">
+<option selected="selected"> </option><option value="2.000.000">2.000.000</option><option value="2.500">2.500</option><option value="0,002">0,002</option><option value="2.000">2.000</option><option value="2.500.000">2.500.000</option>
+</select>
+<span style="display:none" id="clozeAnswer100_132.5">JXUwMDZhJXUwMDFjJXUwMDFlJXUwMDAwJXUwMDAw</span>
+  KB</p>
+<p></p>
+<div class="block iDevice_buttons">
+<p>
+<input class="button" type="submit" name="getScore100_132" value="Comprobar"  id="getScore100_132" />
+
+<input type="hidden" name="clozeOtras100_132" id="clozeOtras100_132" value=""/>
+
+<input type="hidden" name="clozeFlag100_132.strictMarking" id="clozeFlag100_132.strictMarking" value="false" />
+<input type="hidden" name="clozeFlag100_132.checkCaps" id="clozeFlag100_132.checkCaps" value="false" />
+<input type="hidden" name="clozeFlag100_132.instantMarking" id="clozeFlag100_132.instantMarking" value="false" />
+<span class="js-hidden js-warning">Habilitar JavaScript</span>
+</p>
+</div>
+<div class="score js-feedback" id="clozeScore100_132"></div>
+</div>
+</form>
+</section></div>
 </div>
 </div>
 </article>
